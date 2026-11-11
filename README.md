@@ -38,3 +38,14 @@ I'm building practical technology skills through hands-on projects and continuou
 - LinkedIn: www.linkedin.com/in/ryan-kibet-892ab529b.
 
 I'm open to learning opportunities, internships, collaborations and entry-level remote roles.
+
+## Project Screenshots
+
+### Business Intelligence Dashboard
+![Business Intelligence](Screenshots/business-intelligence.png)
+
+### Sales Analysis Report
+![Sales Analysis](Screenshots/sales-analysis.png)
+
+### Automated Business Report
+![Automated Reporting](Screenshots/automated-report.png)
