@@ -43,7 +43,7 @@ I'm open to learning opportunities, internships, collaborations and entry-level 
 ## My Project Screenshots
 
 ### Business Intelligence Dashboard
-![Business Intelligence](https://raw.githubusercontent.com/godanaenterprise-ops/python-excel-portfolio/main/Screenshot/business-intelligence.png.png)
+![Business Intelligence](https://raw.githubusercontent.com/godanaenterprise-ops/python-excel-portfolio/main/Screenshot/business-inteligence.png.png)
 
 ### Sales Analysis
 ![Sales Analysis](https://raw.githubusercontent.com/godanaenterprise-ops/python-excel-portfolio/main/Screenshot/sales-analysis.png.png)
