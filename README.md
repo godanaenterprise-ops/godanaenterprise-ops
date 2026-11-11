@@ -34,7 +34,7 @@ I'm building practical technology skills through hands-on projects and continuou
 - Business Intelligence
 
 ## 🤝 Connect With Me
-- GitHub: [My GitHub Profile](https://github.com/YOUR-USERNAME)
-- LinkedIn: Add your LinkedIn profile URL here.
+- GitHub: https://github.com/godanaenterprise-ops
+- LinkedIn: www.linkedin.com/in/ryan-kibet-892ab529b.
 
 I'm open to learning opportunities, internships, collaborations and entry-level remote roles.
