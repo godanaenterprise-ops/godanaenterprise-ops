@@ -42,10 +42,10 @@ I'm open to learning opportunities, internships, collaborations and entry-level 
 ## Project Screenshots
 
 ### Business Intelligence Dashboard
-![Business Intelligence](Screenshots/business-intelligence.png)
+![Business Intelligence](Screenshots/business-intelligence.png.png)
 
 ### Sales Analysis Report
-![Sales Analysis](Screenshots/sales-analysis.png)
+![Sales Analysis](Screenshots/sales-analysis.png.png)
 
 ### Automated Business Report
-![Automated Reporting](Screenshots/automated-report.png)
+![Automated Reporting](Screenshots/automated-report.png.png)
