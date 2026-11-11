@@ -39,13 +39,14 @@ I'm building practical technology skills through hands-on projects and continuou
 
 I'm open to learning opportunities, internships, collaborations and entry-level remote roles.
 
-## Project Screenshots
+
+## My Project Screenshots
 
 ### Business Intelligence Dashboard
-![Business Intelligence](Screenshot/business-inteligence.png.png)
+![Business Intelligence](https://raw.githubusercontent.com/godanaenterprise-ops/python-excel-portfolio/main/Screenshot/business-intelligence.png.png)
 
-### Sales Analysis Report
-![Sales Analysis](Screenshot/sales-analysis.png.png)
+### Sales Analysis
+![Sales Analysis](https://raw.githubusercontent.com/godanaenterprise-ops/python-excel-portfolio/main/Screenshot/sales-analysis.png.png)
 
 ### Automated Business Report
-![Automated Reporting](Screenshot/automated-report.png.png)
+![Automated Report](https://raw.githubusercontent.com/godanaenterprise-ops/python-excel-portfolio/main/Screenshot/automated-report.png.png)
